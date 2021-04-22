@@ -11,3 +11,4 @@
 ## Resources
 
 - Data: https://www.kaggle.com/justinas/startup-investments
+- Milestone 1 Google Doc: https://docs.google.com/document/d/1V25XZX-7iAyMvDu5wz4M4VxEHok8ATV76VOYVljMrQc/edit
